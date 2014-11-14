@@ -1,0 +1,23 @@
+﻿body {
+   margin:0;
+   padding:0;
+}
+
+canvas{
+    border:1px solid black;
+    background-color:lightgoldenrodyellow;
+  background: url("../th.jpg") no-repeat;
+ 
+  
+}
+#wrapper{
+    margin:50px auto;
+    width:350px;
+    height:300px;
+}
+#start{
+    border: none;
+    background: #808080;
+    color: #eee;
+    padding: 8px 14px;
+}
